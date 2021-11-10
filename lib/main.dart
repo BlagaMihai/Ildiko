@@ -246,7 +246,7 @@ class _FirstRouteState extends State<FirstRoute> with TickerProviderStateMixin {
                   child: Visibility(
                     visible: _showIldikoPress,
                     child: ShowUpAnimation(
-                      delayStart: const Duration(milliseconds: 150),
+                      delayStart: const Duration(milliseconds: 0),
                       animationDuration: const Duration(seconds: 2),
                       curve: Curves.bounceInOut,
                       direction: Direction.horizontal,

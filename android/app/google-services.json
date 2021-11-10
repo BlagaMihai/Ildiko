@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "299747062101",
+    "project_id": "ildiko-44671",
+    "storage_bucket": "ildiko-44671.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:299747062101:android:340efc38515bf5cfedffdc",
+        "android_client_info": {
+          "package_name": "com.arobs.ildiko"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "299747062101-en1t041dok9r264pst6pav4ptmtt853m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPSk8gGxkaGx-10qm5KMyce14iz6PHbm0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "299747062101-en1t041dok9r264pst6pav4ptmtt853m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
